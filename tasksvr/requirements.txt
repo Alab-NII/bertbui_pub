@@ -1,0 +1,9 @@
+# If your python is under 3.7, remove comment out
+# dataclasses==0.8
+Pillow==8.2.0
+tornado==6.1
+requests==2.25.1
+tokenizers==0.10.3
+datasets
+scikit-learn
+ijson
