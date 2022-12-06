@@ -16,7 +16,7 @@ SETUP_LIST = [
     'coco', 'vqa_v2',
     'sa', 
 ]
-SETUP_LIST = ['wnli']
+#SETUP_LIST = ['wnli']
 
 def main():
     
